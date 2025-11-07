@@ -8,3 +8,4 @@ __pycache__/
 # macOS / Windows 숨김파일
 .DS_Store
 Thumbs.db
+data/hap_tree.zip
